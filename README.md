@@ -10,7 +10,7 @@ git clone https://github.com/creyt2012/automation-unrar---zip.git
  ```
 ## Cài đặt thư viện
 ```
-pip3 install patoolib
+pip3 install patool
 ```
 thay các path sau
 ```
