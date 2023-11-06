@@ -6,7 +6,7 @@
 # Các Bước cài đặt chi tiết
 ## Cài đặt
 ```
-git clone https://github.com/creyt2012/automation-unrar---zip)https://github.com/creyt2012/automation-unrar---zip
+git clone https://github.com/creyt2012/automation-unrar---zip.git
  ```
 ## Cài đặt thư viện
 ```
